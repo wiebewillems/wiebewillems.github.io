@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Wiebe's Blog",
-  description: "Cyber Rambles",
+  description: "A Tech Blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
