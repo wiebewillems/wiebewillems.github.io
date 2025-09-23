@@ -1,6 +1,6 @@
 # Custom
-docs/.vitepress/dist
-docs/.vitepress/cache
+blog/.vitepress/dist
+blog/.vitepress/cache
 
 ## From https://github.com/github/gitignore/blob/main/Node.gitignore
 # Logs
