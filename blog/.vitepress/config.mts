@@ -10,10 +10,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
     ],
 
-    search: {
-      provider: 'local'
-    },
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wiebewillems' }
     ]
