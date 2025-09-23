@@ -1,5 +1,8 @@
 ---
 title: My new Article
+date: 2025-09-23
+description : "A test article explaining nothing"
+image: /images/test.png
 ---
 
 # My new Article
