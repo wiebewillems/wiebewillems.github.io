@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Wiebe's Blog",
   description: "A Tech Blog",
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
